@@ -16,3 +16,4 @@ root:
 
   January 04, 2025:
   created directory according to above directory structure.
+  Added modules and envs folder.
