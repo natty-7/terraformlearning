@@ -13,3 +13,6 @@ root:
       main.tf
       variables.tf
     vnet:
+
+  January 04, 2025:
+  created directory according to above directory structure.
