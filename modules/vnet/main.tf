@@ -1,0 +1,1 @@
+#vnet module requires vnet, subnet, resource group, cidr range and location
