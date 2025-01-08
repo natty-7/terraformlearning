@@ -8,3 +8,7 @@ resource "azurerm_virtual_network" "vnet" {
 }
 
 #create subnets within the virutal network
+resource "azurerm_subnet" "subnet" {
+  
+  
+}
